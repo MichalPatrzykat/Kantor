@@ -12,4 +12,5 @@ https://michalpatrzykat.github.io/Kantor/
 
 ## Screen
 
-![obrazek] 
+![obrazek](https://zapodaj.net/images/3484b381ae3fa.png)
+

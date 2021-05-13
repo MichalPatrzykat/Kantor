@@ -3,7 +3,9 @@ html {
 }
 
 body {
-    background-color: #dae6da;
+    background-image: url("images/euro-.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
     font-family: Lato, sans-serif;
 }
 *, ::after, ::before {
@@ -22,13 +24,13 @@ body {
 .form__field {
     max-width: 600px;
     border: 5px solid;
-    border-color: #5e6472;
+    border-color: #151516;
     padding: 5px;
     border-radius: 5px;
     width: 60%;
     background-color: #faf4f4;
     color: #151616;
-    font-weight: lighter;
+    font-weight: l;
 }
 .header {
     text-align: center;
@@ -48,24 +50,24 @@ body {
     max-width: 200px;
     text-align: left;
     color: #151616;
-    font-weight: lighter;
+    font-weight: bold;
 }
 
 .form__fieldset {
     border-radius: 15px;
-    border: 2px solid;
+    border: 5px solid;
     border-color: #121213;
 }
 
 .form__legend {
     padding: 5px;
     color: #131414;
-    font-weight: lighter;
+    font-weight: bolder;
 }
 
 .form__paragraph {
     color: #080808;
-    font-weight: lighter;
+    font-weight: bold;
 }
 
 .form__button {
@@ -74,7 +76,7 @@ body {
     border: solid 1px;
     border-radius: 5px;
     padding: 7px 15px;
-    font-weight: lighter;  
+    font-weight: bold;  
 }
 
 .form__button:hover {

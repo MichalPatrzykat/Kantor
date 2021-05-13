@@ -14,3 +14,6 @@ https://michalpatrzykat.github.io/Kantor/
 
 ![obrazek](https://zapodaj.net/images/3484b381ae3fa.png)
 
+## How it works?
+
+After typing the amount of money in polish zloty (PLN), the calculator converts it into US Dollars (USD) or Euros (EUR)

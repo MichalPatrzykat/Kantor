@@ -5,8 +5,9 @@ html {
 body {
     background-image: url("images/euro-.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     font-family: Lato, sans-serif;
+    
 }
 *, ::after, ::before {
     box-sizing: inherit;
